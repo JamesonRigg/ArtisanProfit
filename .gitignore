@@ -1,3 +1,7 @@
+# Initial csv only exists to show expected data structure
+csv/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
